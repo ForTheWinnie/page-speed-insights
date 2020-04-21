@@ -1,0 +1,14 @@
+{
+  "name": "page-speed-insights",
+  "version": "1.0.0",
+  "description": "getting PSI scores on website's pages",
+  "main": "psi.js",
+  "scripts": {
+    "test": "psi.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
